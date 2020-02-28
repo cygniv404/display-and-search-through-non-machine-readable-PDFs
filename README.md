@@ -8,3 +8,7 @@ Using Python 3.6.7
 3. Install the requirements with 'pip install -r requirements.txt'
 4. Run the application with 'python3 -m main'
 5. go to http://localhost:7474
+
+#frontend code
+
+please go to the **frontend** branch to see the actual development code used.
