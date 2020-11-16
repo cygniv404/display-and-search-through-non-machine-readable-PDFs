@@ -1,3 +1,20 @@
+
+find & extract information from non-machine-readable PDF’s and the OCR is already done on the document.
+
+Web application that displays a document and allows the users to:
+
+1 - Scroll throughall the pages of the document
+
+2 - Enter keywords and search the document for them
+
+3 - Highlight words that match their keywords
+
+two sample files are given: 
+
+1 - tokens.json (OCR extracted Tokens)
+
+2 - images.zip (11 extracted Images)
+
 #Instructions
 ------------
 Using Python 3.6.7
